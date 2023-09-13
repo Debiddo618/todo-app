@@ -1,4 +1,4 @@
-Pepsi
 Coke
-Mountain Dew
+Pepsi
 Sprite
+Mountain Dew

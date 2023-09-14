@@ -1,4 +1,4 @@
-FILE_PATH = "files/todos.txt"
+FILE_PATH = "todos.txt"
 
 
 # Open and read the file, then return the todos
